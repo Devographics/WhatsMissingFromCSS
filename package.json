@@ -1,6 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "whats-missing-from-css",
   "private": true,
+  "homepage": "https://whatsmissingfromcss.com/",
   "description": "A simplified bare-bones starter for Gatsby",
   "version": "0.1.0",
   "license": "0BSD",
@@ -33,9 +34,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/StateOfJS/WhatsMissingFromCSS"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/StateOfJS/WhatsMissingFromCSS/issues"
   }
 }
