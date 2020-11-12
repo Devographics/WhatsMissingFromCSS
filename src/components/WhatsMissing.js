@@ -1,5 +1,5 @@
 import React, { useState } from "react"
-import comments from "../data/comments.json"
+import comments from "../../static/data/comments.json"
 import random from "lodash/random"
 import { useLocation } from "@reach/router"
 import queryString from "query-string"
@@ -35,6 +35,7 @@ const WhatsMissing = () => {
       >
         Reload
       </button>
+      <a className="whatsmissing-download" href="/data/comments.json">Download Data</a>
     </div>
   )
 }
